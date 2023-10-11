@@ -1,7 +1,7 @@
 # Control Contaminacion Aire
 Este repositorio contiene scripts de Python para el análisis de contaminantes en la atmosfera.
 
-<img src="perfil_vel.jpg" width="1000" height="800">
+<img src="perfil_vel.jpg" width="800" height="600">
 
 ## Introducción
 Estos scripts muestran algunos de los ejercicios que dejo a mis alumnos de la **Maestria en Ciencias en Ingenieria Ambiental** del **Instituto Tecnologico de Aguascalientes** en la materia de *Control de la Contaminación Atmosferica*. Los proyectos se basan en temas que se abordan en el libro de *Keneth Wark, Cecil F. Warner - Contaminación del Aire*. La lista de proyectos con una breve descripcion se muesta a continuación. La lista de proyectos se presenta a continuación:
